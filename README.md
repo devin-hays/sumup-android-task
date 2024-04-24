@@ -1,4 +1,4 @@
-# Mobile Coding Challenge - Take Home Task
+# SumUp Mobile Coding Challenge - Take Home Task
 
 The purpose of this assignment is to evaluate your coding performance and to understand your attitude towards software development.
 
